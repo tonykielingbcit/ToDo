@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "uv2FCIMfob193AUCRI/EqQ3D93gywnPlzRSxtXZnqGg=",
+  "Source": "WebAPI-2",
+  "BasePath": "_content/WebAPI-2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI-2\\wwwroot",
+      "Source": "WebAPI-2",
+      "ContentRoot": "K:\\github-BCIT\\ASP.NET\\ToDo\\wwwroot\\",
+      "BasePath": "_content/WebAPI-2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
